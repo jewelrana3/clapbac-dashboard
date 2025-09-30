@@ -7,7 +7,7 @@ const Overview = () => {
     { title: "Total Reviews", value: "25,290" },
     { title: "New Sign Ups", value: "34" },
   ];
-  console.log("lsdd");
+  console.log("lsdsd");
   return (
     <div className=" p-6">
       <h2 className="text-orange-500 font-bold text-xl mb-6">Overview</h2>
